@@ -3,6 +3,9 @@
 - 👀 I’m interested in software,AI,pyschology and computer games 
 - 🌱 I’m currently learning python
 - 📫 https://steamcommunity.com/id/Vorsx/ 
+
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTekinnn&layout=compact&hide=html" alt="KemalTekinnn" /></p>
 ### Contact Me 📫
 You can find and get touch with me via Linkedin and Instagram!
