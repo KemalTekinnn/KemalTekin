@@ -3,7 +3,8 @@
 - 👀 I’m interested in software,AI,pyschology and computer games 
 - 🌱 I’m currently learning python and I want to be full stack developer 
 - 📫 https://steamcommunity.com/id/Vorsx/ 
-
+### Contact Me 📫
+You can find and get touch with me via Linkedin and Instagram!
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTekinnn&layout=compact&hide=html" alt="KemalTekinnn" /></p>
