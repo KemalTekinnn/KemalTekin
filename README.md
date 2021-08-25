@@ -2,7 +2,7 @@
 - 👋 I'm Kemal Tekin
 - 👀 I’m interested in software,AI,pyschology and computer games 
 - 🌱 I’m currently learning HTML-CSS and I want to be full stack developer 
-- :point_right: In this road My motto is "Always be building"
+- :point_right: Everyday %1 Better 
 
 - 📫 https://steamcommunity.com/id/Vorsx/ 
 ### Contact Me 📫
