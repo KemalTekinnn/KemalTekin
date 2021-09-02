@@ -8,6 +8,7 @@
 ### Contact Me 📫
 You can find and get touch with me via Linkedin and Instagram!
 
+<a href="https://data.typeracer.com/pit/profile?user=kemaltkn&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=kemaltkn" border="0" alt="TypeRacer.com scorecard for user kemaltkn"/></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTekinnn&layout=compact&hide=html" alt="KemalTekinnn" /></p>
 ### Contact Me 📫
