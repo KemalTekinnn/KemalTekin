@@ -8,7 +8,7 @@
 ### Contact Me 📫
 You can find and get touch with me via Linkedin and Instagram!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KemalTekinn&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://data.typeracer.com/pit/profile?user=kemaltkn&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=kemaltkn" border="0" alt="TypeRacer.com scorecard for user kemaltkn"/></a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KemalTekinnn&layout=compact&hide=html" alt="KemalTekinnn" /></p>
 ### Contact Me 📫
