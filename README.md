@@ -1,7 +1,7 @@
 ### Hi! Welcome to my github page. 👋
 - 👋 I'm Kemal Tekin
 - 👀 I’m interested in software,AI,pyschology and computer games 
-- 🌱 I’m currently learning HTML-CSS and I want to be full stack developer 
+- 🌱 I’m currently JavaScript
 - :point_right: Everyday %1 Better 
 
 - 📫 https://steamcommunity.com/id/Vorsx/ 
