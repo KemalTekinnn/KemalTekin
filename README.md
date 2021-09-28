@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - :point_right: Everyday %1 Better 
 
-- 📫 https://steamcommunity.com/id/Vorsx/ 
+- 📫 kemaltknnn@gmail.com
 ### Contact Me 📫
 You can find and get touch with me via Linkedin and Instagram!
 
