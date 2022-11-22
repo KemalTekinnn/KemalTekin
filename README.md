@@ -1,4 +1,4 @@
-## 2023 Goa ;
+## 2023 Goal ;
 ### Hi! Welcome to my github page. 👋
 - 👋 I'm Kemal Tekin
 - 👀 I’m interested in software,AI,pyschology and computer games 
