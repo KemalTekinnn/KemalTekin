@@ -1,4 +1,4 @@
-## 2022 Goal: Javascript - React
+## 2023 Goa ;
 ### Hi! Welcome to my github page. 👋
 - 👋 I'm Kemal Tekin
 - 👀 I’m interested in software,AI,pyschology and computer games 
