@@ -2,7 +2,7 @@
 ### Hi! Welcome to my github page. 👋
 - 👋 I'm Kemal Tekin
 - 👀 I’m interested in software,AI,pyschology and computer games 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning R
 - :point_right: Everyday %1 Better 
 
 - 📫 kemaltknnn@gmail.com
